@@ -1,4 +1,4 @@
-### Github Statistics
+### Github Statistics App
 
 ![Github-Statistics](https://github.com/Melyfr/github-statistics/assets/72978278/0b5f4033-50f1-435b-80bc-a17500e4f944)
 <div>
@@ -11,7 +11,7 @@
 
 ### О проекте:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Приложение для отображения статистики профилей GitHub, предоставляющее основные данные аккаунта, активность за последние 5 лет, информацию о подписчиках и последних активных репозиториях. Данные профилей получаются с помощью Github API, карта с локацией пользователя отображается с помощью Mapbox API. Интерфейс приложения адаптирован для различных размеров экрана.
 #
 
 ### Быстрый запуск:
